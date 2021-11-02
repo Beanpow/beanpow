@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanpow&show_icons=true&theme=buefy&hide_title=true&count_private=true)
+
 - 👋 Hi, I’m @beanpow
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ...
