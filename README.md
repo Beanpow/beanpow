@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanpow&show_icons=true&theme=buefy&hide_title=true&count_private=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=beanpow&show_icons=true&theme=material-palenight&hide_title=true&count_private=true">
 
-- 👋 Hi, I’m @beanpow
+### 👋 Hi, I’m Beanpow
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
