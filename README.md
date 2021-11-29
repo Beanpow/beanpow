@@ -6,7 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me beanpow@gmail.com
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 beanpow/beanpow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
