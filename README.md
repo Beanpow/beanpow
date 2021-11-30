@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me beanpow@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=beanpow&style=flat-square)
 
 <!---
 beanpow/beanpow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
