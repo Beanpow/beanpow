@@ -23,8 +23,9 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=beanpow&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanpow&hide=TeX&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=beanpow&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanpow&hide=TeX&layout=compact">
+
+
 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=beanpow&style=flat-square)
