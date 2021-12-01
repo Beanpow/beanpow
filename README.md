@@ -5,12 +5,48 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-beanpow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/beanpow)](www.linkedin.com/in/beanpow)
-[![Gmail Badge](https://img.shields.io/badge/-beanpow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beanpow@gmail.com)](mailto:beanpow@gmail.com)
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beanpow@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beanpow)
+
+
 
 ## ⚡ Technologies
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" fill="#000000"/> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/raspberrypi.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/ubuntu.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/qt.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/confluence.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/jirasoftware.svg" />
 
+
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)]()
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)]()
+[![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)]()
+[![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
+[![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)]()
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+[![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
+[![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]()
+[![](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+
+<!-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" fill="#000000"/> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/raspberrypi.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/ubuntu.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/qt.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/confluence.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/jirasoftware.svg" /> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
