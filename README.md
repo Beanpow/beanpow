@@ -1,19 +1,16 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/beanpow/beanpow/master/wave.gif" width="30px">
 
 - 👋 I’m Beanpow
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML & Robotics
+- 🌱 I’m currently learning Cuda & OpenMP & MPI
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/beanpow/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:beanpow@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 
@@ -54,7 +51,6 @@
 [![]()]()
 
 
-<!-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" fill="#000000"/> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/raspberrypi.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/ubuntu.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/qt.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/confluence.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/jirasoftware.svg" /> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
