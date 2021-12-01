@@ -5,9 +5,17 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/beanpow/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:beanpow@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beanpow@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beanpow)
 
 
 
