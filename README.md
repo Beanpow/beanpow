@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/beanpow/beanpow/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/beanpow/beanpow/master/wave.gif" width="30">
 
 - 👋 I’m Beanpow
 - 👀 I’m interested in ML
