@@ -11,6 +11,12 @@
   <a href="mailto:beanpow@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
+  <a href="https://beanpow.top">
+    <img src="https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  
 </p>
 
 
