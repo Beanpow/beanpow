@@ -43,10 +43,8 @@
 [![](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
-[![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
-[![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]()
 [![](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)]()
 [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![]()]()
@@ -55,6 +53,11 @@
 [![]()]()
 [![]()]()
 [![]()]()
+
+[![](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white)]()
+[![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)]()
+[![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
+[![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]()
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -75,4 +78,4 @@
 
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=beanpow&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=beanpow&style=for-the-badge)
