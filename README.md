@@ -2,7 +2,6 @@
 
 - 👋 I’m Kaibo He
 - 👀 I’m interested in Reinforcement Learning & Robotics
-- 🌱 I’m currently learning Cuda & OpenMP & MPI
 
 <p align='center'>
   <!-- <a href="https://www.linkedin.com/in/beanpow/">
